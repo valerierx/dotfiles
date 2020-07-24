@@ -2,13 +2,15 @@
 ![alt text](https://raw.githubusercontent.com/undevdecatos/dotfiles/master/rice.png)
 
 # Apps
-|WM| bspwm |
-|Bar|Polybar|
-|Terminal| st|
-|Shell|oh-my-fish|
-|Compositor|picom|
-|Text Editor|nano|
-|Browser|Chromium with VAAPI support|
-|Music Player|Spotify with Dribbblish spicetify theme|
-|Application Launcher|Rofi|
+| Category | Name | Theme |
+|:--------:|:----:|:-----:|
+|WM| bspwm | None |
+|Bar|Polybar| Polybar-11 orange |
+|Terminal| st | None |
+|Shell|oh-my-fish| gianu |
+|Compositor|picom| none |
+|Text Editor|nano| none |
+|Browser|Chromium with VAAPI support| Material Dark theme |
+|Music Player|Spotify | Dribbblish spicetify theme|
+|Application Launcher|Rofi| Android notification |
 | Music Visualizer | cava |
